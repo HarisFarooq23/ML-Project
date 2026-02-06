@@ -25,7 +25,7 @@ The repository follows a clean and modular structure inspired by **industry-leve
 | 5th Feburary | GitHub Repo Created ✅ |
 | 6th Feburary | Scikit Learn Crash course ✅ |
 
-*(Update this table daily to track development)*
+
 
 ---
 
@@ -39,14 +39,6 @@ The repository follows a clean and modular structure inspired by **industry-leve
 
 ---
 
-## 🧠 Problem Statement
-
-Briefly describe the problem your model solves.
-
-**Example:**  
-> Predict student performance based on study hours and attendance using regression models.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -69,5 +61,7 @@ Briefly describe the problem your model solves.
 
 ---
 
-## 📂 Project Structure
-
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
