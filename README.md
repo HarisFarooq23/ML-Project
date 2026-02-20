@@ -16,16 +16,6 @@ The project demonstrates the full ML lifecycle including **data preprocessing, f
 
 The repository follows a clean and modular structure inspired by **industry-level ML workflows** ensuring scalability and reproducibility.
 
----
-
-## 📅 Progress Tracker
-
-| Date | Progress |
-|------|---------|
-| 5th Feburary | GitHub Repo Created ✅ |
-| 6th Feburary | Scikit Learn Crash course ✅ |
-
-
 
 ---
 
