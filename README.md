@@ -1,4 +1,4 @@
-# 🚗 Car Price Predictor  
+# 🌍 Project details 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2000&color=00FFAA&center=true&vCenter=true&width=500&lines=Machine+Learning+Model;Data+Visualization+Insights" />
 </p>
